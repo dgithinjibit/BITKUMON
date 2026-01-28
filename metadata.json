@@ -1,0 +1,5 @@
+{
+  "name": "BitKumon MVP",
+  "description": "A personalized Bitcoin learning platform using the Kumon mastery-based method, focusing on user safety and education in a simulated testnet environment.",
+  "requestFramePermissions": []
+}
